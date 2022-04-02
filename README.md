@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARGUS13 Sugirdan V
 - 👀 I’m interested in Programming, IOT, PCB Design.
 - 🌱 I’m currently learning HTML and CSS
-- 📫 My mail is sugirdan.ec18@bitsathy.ac.in 
+- 📫 My mail is vsugirdan@gmail.com 
 
 <!---
 ARGUS13/ARGUS13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
